@@ -1,0 +1,16 @@
+tap "homebrew/bundle"
+tap "homebrew/services"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "git"
+brew "node"
+brew "watchman"
+brew "cocoapods"
+
+cask "github"
+cask "visual-studio-code"
+cask "iterm2"
+cask "android-studio"
+cask "xcode"
+cask "rectangle"
