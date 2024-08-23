@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 14
+}
