@@ -1,0 +1,13 @@
+[user]
+  name = "Louis Daily III"
+  email = "" # Update email here.
+
+[core]
+  editor = nano
+
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
+  lg = log --oneline --graph --all
